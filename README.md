@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rvlGakuen
 - 👀 I’m interested in machine learning, AI, etc
 - 🌱 I’m currently learning Kotlin, PHP, HTML, CSS
-- 💞️ I’m looking to collaborate on not yet my dudes
+- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me at telegram/twitter @rvlgakuen
 
 <!---
